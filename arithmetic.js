@@ -22,7 +22,7 @@ function div(a,b){
     console.log('div is: ', v1/v2);
 }
 
-exports.sum = sum(a,b);
-exports.sub = sub(a,b);
-exports.mul = mul(a,b);
-exports.div = div(a,b);
+exports.sum = sum;
+exports.sub = sub;
+exports.mul = mul;
+exports.div = div;
