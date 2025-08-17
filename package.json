@@ -1,0 +1,10 @@
+{
+    "author": "milton ganesh",
+    "name": "packmiltonex5",
+    "version" : "0.1.1",
+    "main" : "arithmetic",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
